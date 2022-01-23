@@ -1,6 +1,10 @@
 
-line A
+line A (diff on line 2) 
 line B
+
 line C(diff on line3)
+
+line C (diff on line 4) 
+
 line D
 line E(diff on line 5)
